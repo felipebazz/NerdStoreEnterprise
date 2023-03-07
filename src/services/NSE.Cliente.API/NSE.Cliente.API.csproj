@@ -11,5 +11,13 @@
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.17.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Services\" />
+    <Folder Include="Data\" />
+    <Folder Include="Models\" />
+    <Folder Include="Configuration\" />
+    <Folder Include="Application\" />
+  </ItemGroup>
+
 
 </Project>
